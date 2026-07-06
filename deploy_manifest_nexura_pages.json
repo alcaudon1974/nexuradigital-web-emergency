@@ -1,8 +1,7 @@
 {
-  "generated_at": "2026-07-06T17:16:22Z",
-  "source": "/home/alfonso_ngel/HERMES_SECOND_BRAIN_APP/nexura-digital-web",
+  "generated_at": "2026-07-06T17:18:26Z",
   "file_count": 65,
-  "policy": "solo HTML/assets/archivos públicos seguros; excluidos scripts, backups, configs, logs y helpers",
+  "policy": "path-compatible GitHub Pages deployment; absolute internal links prefixed with /nexuradigital-web-emergency/ because nexuradigital.es currently redirects to this Pages path",
   "sample_files": [
     {
       "path": "sitemap.xml",
@@ -11,8 +10,8 @@
     },
     {
       "path": "index.html",
-      "size": 36166,
-      "sha256": "13d95a072d5b3332ffc258f3c25572e3920f880879581380e39d61d511eba9e7"
+      "size": 37174,
+      "sha256": "7e6ea67dbd196cc7ad51f81280527d3d15225c82fcbb6076114f4e162cb86526"
     },
     {
       "path": "healthz",
@@ -46,8 +45,8 @@
     },
     {
       "path": "deploy_manifest_nexura_pages.json",
-      "size": 8905,
-      "sha256": "95430180768fd7a7310707278e41ea4efb2b419794ae44bf09b646bb8cdfc1f0"
+      "size": 8883,
+      "sha256": "81afa05443998c1f21bd6c91b35b714616b10fb7900d0b62429bbb5ecd468c89"
     },
     {
       "path": "indexnow-key.txt",
@@ -76,23 +75,23 @@
     },
     {
       "path": "seo-posicionamiento-web/index.html",
-      "size": 30113,
-      "sha256": "45777f8f15b0420324357aeb7afd4b5271a9d36d7917af2c61178d98622ae78d"
+      "size": 31149,
+      "sha256": "3af608f8aab30168fa6f20f4a6d4d647ee6aa4624011fee9cda5ff2688c5f87e"
     },
     {
       "path": "automatizacion-procesos/index.html",
-      "size": 30068,
-      "sha256": "66ae2375d7c9d27b012cf6522c6e462faf3ab9df90e6f4b3ea2a8aaf17d796b5"
+      "size": 30712,
+      "sha256": "0ee83e9319796725e7e6ecd5adc3b2ba35d4c609e899eb001d3ff23209503526"
     },
     {
       "path": "automatizacion-atencion-cliente/index.html",
-      "size": 27881,
-      "sha256": "adf4cb19a76f86624f28f4f1a0fbb55c2c88d721d48bdc761da6b74503e29995"
+      "size": 28721,
+      "sha256": "9f1f0f136d01276394ca95c4d6f7745a172d9513582bed4772e6a877e213836a"
     },
     {
       "path": "diseno-web-cordoba/index.html",
-      "size": 31012,
-      "sha256": "969923443285edbdefefcd5df88d391c91945409a927f93fcc60f7f6d3882988"
+      "size": 31740,
+      "sha256": "adcdc393bddb94176500dbca04d2337f2158b3769073d32883070569d5101bcc"
     },
     {
       "path": "assets/og-nexura-digital.png",
@@ -111,28 +110,28 @@
     },
     {
       "path": "diseno-web-empresas/index.html",
-      "size": 28925,
-      "sha256": "4ae2a1f1a2fec0584598fa1e2b6af93cbe896fee26dd2624e57c05ab6215aadc"
+      "size": 29457,
+      "sha256": "03b2b959537d6f34de15a62b54f79e84f1b508cfc1140361ed79201045af4a52"
     },
     {
       "path": "funnels-venta/index.html",
-      "size": 28664,
-      "sha256": "88f9f313b43b995b4766489eeaf0c9093267d944de94dd96ca0cb28d5876347e"
+      "size": 29196,
+      "sha256": "ff5bad8724688ae43ce542a37795a5ace203946a066cccb84ead492e7674d7a1"
     },
     {
       "path": "chatbots-inteligentes/index.html",
-      "size": 29809,
-      "sha256": "71992b4959695067c6c087b69839edda8f472dc6c1257445d75b475ce8668a13"
+      "size": 30425,
+      "sha256": "fa09e4d6b992c31d196afa522abcfd56d009bac1a780aeeefb7fc460ed1a9557"
     },
     {
       "path": "desarrollos-n8n/index.html",
-      "size": 27649,
-      "sha256": "9837268b8dfa6860fc8d73cc60d73ae8b13dacc70aaae5aafbfb2dd40bb9518f"
+      "size": 28489,
+      "sha256": "ded838ed1f156a6f3f94c3d041943093aa68dd018e2c6542b92ffa3c907daa6b"
     },
     {
       "path": "automatizacion-empresas-cordoba/index.html",
-      "size": 30055,
-      "sha256": "d801497d74de0ee0861fd84c5ce4407854000dbc044dade8176c3bc5d7cf1799"
+      "size": 30671,
+      "sha256": "b40f49170fb43fee37167fb6688f538f555c733cabc52f882a45889a63b8b39c"
     },
     {
       "path": "politica-privacidad-nexura-scan-espana/index.html",
@@ -141,118 +140,118 @@
     },
     {
       "path": "recursos/index.html",
-      "size": 30691,
-      "sha256": "ecdc9c0c30b9732aa1003de4e8c64c9d0f445081c5f0f01227a0f04b4c3b394b"
+      "size": 32175,
+      "sha256": "9642fe2265b800c2fe15adc531748dcc593a69759d74eab97951fe80734d581e"
     },
     {
       "path": "recursos/automatizacion-gestorias-asesorias-cordoba/index.html",
-      "size": 23397,
-      "sha256": "19dd419b6a8310e5748d2809a474397298cb43fb55a99430e928ff507459aeb8"
+      "size": 23901,
+      "sha256": "d09b82321b1915e0f04db72421db8d80f26062b82774ef58f9c95a52d60b55cb"
     },
     {
       "path": "recursos/automatizacion-procesos-empresas-cordoba/index.html",
-      "size": 18432,
-      "sha256": "3c3274ef7de528bf8035e7197d999f38f8dc43bdfc70d418b634d764d3cfa4e8"
+      "size": 18852,
+      "sha256": "31a9a0947b14a1c38ece613b600a19d06c699fa12e484eeb6e4c00124c953c85"
     },
     {
       "path": "recursos/ia-whatsapp-negocios-locales-cordoba/index.html",
-      "size": 29085,
-      "sha256": "d02989a2a3fd0300c9e76c5bb217bb04d1f1a58f67cfb1b7017f701fc2e5f0d7"
+      "size": 29953,
+      "sha256": "119baa0b190c29d21f417cafe1899e25649b21a4eded0f7736a60cd0809cb8e8"
     },
     {
       "path": "recursos/diseno-web-cordoba-vender-mas/index.html",
-      "size": 25923,
-      "sha256": "37854ad335ae6e2cd831d92b468595539d6c520769b4040cb7a8c872d66684bd"
+      "size": 26539,
+      "sha256": "f898ef7ac10516e4b313fd247229515de052f00fdc252d155ec5c011efa10fa5"
     },
     {
       "path": "recursos/automatizar-whatsapp-empresas/index.html",
-      "size": 28000,
-      "sha256": "f9e046a0a6ac9a474515bc7de749be164b6869287cec941590006fb87301a6f1"
+      "size": 28756,
+      "sha256": "466f9106fac94677d392898e48f21db190f6161480867560489b216f9efd999d"
     },
     {
       "path": "recursos/reducir-tareas-repetitivas-automatizacion/index.html",
-      "size": 25220,
-      "sha256": "df3dc8e2226d3789cb4644ac9b15670e06e3bca73372bd7abb46000d656f7e4a"
+      "size": 25836,
+      "sha256": "631832bf245cff6d7f3dfa3cd708b97a7e5b09fb985ec92c2ad63121aa94ee65"
     },
     {
       "path": "recursos/casos-uso-automatizacion-ia-cordoba/index.html",
-      "size": 23368,
-      "sha256": "ab7009a6f94448b8a017116d9fc8b4feb628af090f2a723d7a5951237009c969"
+      "size": 23872,
+      "sha256": "e53a15c3da6c245950465719f3b3a28c0e07ad47e9be2237f40c1f2f5a52ba6a"
     },
     {
       "path": "recursos/como-saber-web-pierde-clientes/index.html",
-      "size": 25427,
-      "sha256": "531d36343cfc35f3b591116a637b96bd611b25331c157ca10775ec2815604291"
+      "size": 26043,
+      "sha256": "68a265775180e3dc721d736649f27c44eb10dfb508d51f2586ceb75e2fb24aa9"
     },
     {
       "path": "recursos/cuanto-cuesta-web-empresa/index.html",
-      "size": 27936,
-      "sha256": "d0a3eccec62e8ad14cc6965d21a7f09aa3b1bcf71c1f997fce15daf764a56c4d"
+      "size": 28692,
+      "sha256": "c18a0792d15340c6c9322cc8442231e11c7fc6789795361c66123bd606e8c8a0"
     },
     {
       "path": "recursos/chatbot-whatsapp-empresas-cordoba/index.html",
-      "size": 17755,
-      "sha256": "9b15e32afe56d708d954c4ea35417768958859106a55ee336ced73f5f0d1f6ef"
+      "size": 18175,
+      "sha256": "38be7c10ba10786ae2df99e308706a2d75262b6a671084107ac162f823876e39"
     },
     {
       "path": "recursos/funnel-ventas-publicidad/index.html",
-      "size": 25174,
-      "sha256": "aafc1aaa3034ec5a87060624f0426bfef26182e5ecafdbad985568924df50e43"
+      "size": 25790,
+      "sha256": "24dda98ca1f647eafbd72e0b2d2f04b49047de0c1a97680c6ceffaf7360850be"
     },
     {
       "path": "recursos/que-debe-tener-web-empresarial/index.html",
-      "size": 25173,
-      "sha256": "201d2e8b35aa2c1143a987336d589b26ff169b8a15b9fd91575e5642a3869033"
+      "size": 25789,
+      "sha256": "a69ee6101ff5937dda321da03db4d777d831588da29759ff5d1439dad3efbe4b"
     },
     {
       "path": "recursos/checklist-web-empresa-cordoba/index.html",
-      "size": 25391,
-      "sha256": "b798279722960803b3ee987b8cfae144d4f0b8c9872aaf4599ead37e52074981"
+      "size": 26007,
+      "sha256": "2a7bf85b6462f58455984f1913402bedc60a27fb875ef8f6fa68a7b3063290ea"
     },
     {
       "path": "recursos/chatbot-empresas-cuando-merece-pena/index.html",
-      "size": 25913,
-      "sha256": "3c9d9d4411ebbcd14f542a11a1fad669015e44eee50ac13fdc061acbb7c55390"
+      "size": 26529,
+      "sha256": "6581823dfc6f196a077c8a777bb1fbed4cf8cff3c4642afd9ddaa543aca54a12"
     },
     {
       "path": "recursos/agentes-ia-empresas-que-pueden-hacer/index.html",
-      "size": 25935,
-      "sha256": "e5fe81309255f93aa9fd81f1fcaa611b23c59538baf939e5b14ae98acbe8f572"
+      "size": 26551,
+      "sha256": "3003652f868ab8e2e67ea82ce730676c89784156932bc33a0d1ed72f83a4e9f4"
     },
     {
       "path": "recursos/guia-google-business-profile-empresas-servicio/index.html",
-      "size": 25525,
-      "sha256": "d1854000518e43ed5a03d7a8b85daff88eb1c508c733e70a7642b72365047c40"
+      "size": 26141,
+      "sha256": "32fe7c3f9047805aadcd49a8086d4158a2f77fc0111ffb13966387ffd18e682a"
     },
     {
       "path": "recursos/seo-local-empresas-cordoba/index.html",
-      "size": 28053,
-      "sha256": "d0c14f3b23c7194051432af42ebdda61773c9a58af22cf63b1d62830a76af854"
+      "size": 28809,
+      "sha256": "678c6c6627e294a29531900255d9f577967d936b497b935d281845e8f23ac3a8"
     },
     {
       "path": "recursos/mejorar-atencion-cliente-sin-contratar/index.html",
-      "size": 25469,
-      "sha256": "dfcae4b5ce144ca49a953296de990ff5a8f8a07e6cb0a18147ff5677499110ee"
+      "size": 26085,
+      "sha256": "997a417d88c122ecdbe1da8e96acd7267058abb0417d49348e1ba5f96241529f"
     },
     {
       "path": "recursos/errores-diseno-web-empresas/index.html",
-      "size": 25112,
-      "sha256": "f2a4d654519c96fac51ed200f7afce923a8a64631fb6992738f5a52bff42cd9a"
+      "size": 25728,
+      "sha256": "5f1b43d9b88d10534a929fb5beb25c9e995bd83ecfb74a38e34919d79ae729c7"
     },
     {
       "path": "recursos/web-gestorias-asesorias-cordoba/index.html",
-      "size": 29177,
-      "sha256": "9655f299ef98b409f55eb30004e9d70f66a03bd98e0ed00cac7c6359199cff42"
+      "size": 30045,
+      "sha256": "f9ee5b5f409bfc01a8d474bdeefaf9cda76652a83cd12e0edda358ed410f04d2"
     },
     {
       "path": "recursos/agencia-ia-automatizacion-cordoba/index.html",
-      "size": 28007,
-      "sha256": "efed3d6fd7ffc2cc9e627269835b9ce54acdf185d386f02ce784904890b8920c"
+      "size": 28763,
+      "sha256": "3c730a655257b0f0717e0337e1f94e4b977568ce2016c905d91a24aa00c28ff5"
     },
     {
       "path": "recursos/conectar-whatsapp-web-captar-clientes/index.html",
-      "size": 25266,
-      "sha256": "e0767731d7676fa4da4f42e04f00f294eb4d223a482aa1c79bd5a5b3602ef753"
+      "size": 25882,
+      "sha256": "eaba048475753df5ee3563878c1beaa6f0fbfcb028b73bdf55f1c1e4536ea2b0"
     }
   ]
 }
