@@ -1,0 +1,258 @@
+{
+  "generated_at": "2026-07-06T17:15:09Z",
+  "source": "/home/alfonso_ngel/HERMES_SECOND_BRAIN_APP/nexura-digital-web",
+  "file_count": 123,
+  "policy": "solo HTML/assets/archivos públicos seguros; excluidos scripts, backups, configs, logs y helpers",
+  "sample_files": [
+    {
+      "path": "sitemap.xml",
+      "size": 8473,
+      "sha256": "1d032be93901f5db370c3f5ccab6c88749c66069aa13603862ee838471802a34"
+    },
+    {
+      "path": "index.html",
+      "size": 36166,
+      "sha256": "13d95a072d5b3332ffc258f3c25572e3920f880879581380e39d61d511eba9e7"
+    },
+    {
+      "path": "healthz",
+      "size": 3,
+      "sha256": "dc51b8c96c2d745df3bd5590d990230a482fd247123599548e0632fdbf97fc22"
+    },
+    {
+      "path": "llms.txt",
+      "size": 4523,
+      "sha256": "830e2575cab94c215d2debb4bfc8c7e1dd2bbf6d079ec3cb16b3c79034f2f6c5"
+    },
+    {
+      "path": "favicon.ico",
+      "size": 2405,
+      "sha256": "c0a4d32c10ce88868e5ede7e7e21d986a77a25fd41d1a7a3f7e207fc5452750d"
+    },
+    {
+      "path": "favicon.png",
+      "size": 518,
+      "sha256": "79910407c77279fb14d30e63bb9df3847a132340bbaac2a1d466c65462705135"
+    },
+    {
+      "path": ".nojekyll",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "robots.txt",
+      "size": 69,
+      "sha256": "7a18de01f0959a4f1265b07b3cdc80d847339df61fb231b3134857c00e47e869"
+    },
+    {
+      "path": "indexnow-key.txt",
+      "size": 32,
+      "sha256": "00e927a7307bf10a1d128cfda6041f32a02e7710774d0e140586e174c0bb67c3"
+    },
+    {
+      "path": "humans.txt",
+      "size": 195,
+      "sha256": "fe21ca0a980e02ee077d1e5fd398ba63053e95fb1e1cd41f4721c6e9c3d32f06"
+    },
+    {
+      "path": "googledcf26518d172e1f9.html",
+      "size": 54,
+      "sha256": "b18e2c2f32624a841554e7bf7678c46ca8272c05142c54b712d5fb62dc33d04c"
+    },
+    {
+      "path": "google-site-verification-ZZZ9Jh2e8nzNNulF3471UpA2FmaroiBBFPoLz7cg2iU.txt",
+      "size": 69,
+      "sha256": "c62f24abcaccec0388a3a5b6b1e1aa81dd56d9ff11a853358087368cfa54f8b1"
+    },
+    {
+      "path": "contenido_indexable_nexura.txt",
+      "size": 216963,
+      "sha256": "788e7d182123be3ba502aadb6b348b610312b27114bee6c555145eec6230ddd6"
+    },
+    {
+      "path": "seo-posicionamiento-web/index.html",
+      "size": 30113,
+      "sha256": "45777f8f15b0420324357aeb7afd4b5271a9d36d7917af2c61178d98622ae78d"
+    },
+    {
+      "path": "automatizacion-procesos/index.html",
+      "size": 30068,
+      "sha256": "66ae2375d7c9d27b012cf6522c6e462faf3ab9df90e6f4b3ea2a8aaf17d796b5"
+    },
+    {
+      "path": "automatizacion-atencion-cliente/index.html",
+      "size": 27881,
+      "sha256": "adf4cb19a76f86624f28f4f1a0fbb55c2c88d721d48bdc761da6b74503e29995"
+    },
+    {
+      "path": "diseno-web-cordoba/index.html",
+      "size": 31012,
+      "sha256": "969923443285edbdefefcd5df88d391c91945409a927f93fcc60f7f6d3882988"
+    },
+    {
+      "path": "assets/og-nexura-digital.png",
+      "size": 37337,
+      "sha256": "37ee6db0f0f3fbb1a520fe9276e587209f28ef26fea91238ed543ddbf5bfaf7b"
+    },
+    {
+      "path": "assets/nexuradigital.mp4",
+      "size": 1874360,
+      "sha256": "eb042eb2fc5f02df75ebef39afd91765e9d29875199563829146ecffe3be7c8b"
+    },
+    {
+      "path": "assets/video/nexuradigital.mp4",
+      "size": 1874360,
+      "sha256": "eb042eb2fc5f02df75ebef39afd91765e9d29875199563829146ecffe3be7c8b"
+    },
+    {
+      "path": "diseno-web-empresas/index.html",
+      "size": 28925,
+      "sha256": "4ae2a1f1a2fec0584598fa1e2b6af93cbe896fee26dd2624e57c05ab6215aadc"
+    },
+    {
+      "path": "funnels-venta/index.html",
+      "size": 28664,
+      "sha256": "88f9f313b43b995b4766489eeaf0c9093267d944de94dd96ca0cb28d5876347e"
+    },
+    {
+      "path": "chatbots-inteligentes/index.html",
+      "size": 29809,
+      "sha256": "71992b4959695067c6c087b69839edda8f472dc6c1257445d75b475ce8668a13"
+    },
+    {
+      "path": "desarrollos-n8n/index.html",
+      "size": 27649,
+      "sha256": "9837268b8dfa6860fc8d73cc60d73ae8b13dacc70aaae5aafbfb2dd40bb9518f"
+    },
+    {
+      "path": "automatizacion-empresas-cordoba/index.html",
+      "size": 30055,
+      "sha256": "d801497d74de0ee0861fd84c5ce4407854000dbc044dade8176c3bc5d7cf1799"
+    },
+    {
+      "path": "politica-privacidad-nexura-scan-espana/index.html",
+      "size": 5461,
+      "sha256": "6327a4e08783aa06cab3173407e6a07892010511d02613462b6976bb7ba6ebf1"
+    },
+    {
+      "path": "recursos/index.html",
+      "size": 30691,
+      "sha256": "ecdc9c0c30b9732aa1003de4e8c64c9d0f445081c5f0f01227a0f04b4c3b394b"
+    },
+    {
+      "path": "recursos/automatizacion-gestorias-asesorias-cordoba/index.html",
+      "size": 23397,
+      "sha256": "19dd419b6a8310e5748d2809a474397298cb43fb55a99430e928ff507459aeb8"
+    },
+    {
+      "path": "recursos/automatizacion-procesos-empresas-cordoba/index.html",
+      "size": 18432,
+      "sha256": "3c3274ef7de528bf8035e7197d999f38f8dc43bdfc70d418b634d764d3cfa4e8"
+    },
+    {
+      "path": "recursos/ia-whatsapp-negocios-locales-cordoba/index.html",
+      "size": 29085,
+      "sha256": "d02989a2a3fd0300c9e76c5bb217bb04d1f1a58f67cfb1b7017f701fc2e5f0d7"
+    },
+    {
+      "path": "recursos/diseno-web-cordoba-vender-mas/index.html",
+      "size": 25923,
+      "sha256": "37854ad335ae6e2cd831d92b468595539d6c520769b4040cb7a8c872d66684bd"
+    },
+    {
+      "path": "recursos/automatizar-whatsapp-empresas/index.html",
+      "size": 28000,
+      "sha256": "f9e046a0a6ac9a474515bc7de749be164b6869287cec941590006fb87301a6f1"
+    },
+    {
+      "path": "recursos/reducir-tareas-repetitivas-automatizacion/index.html",
+      "size": 25220,
+      "sha256": "df3dc8e2226d3789cb4644ac9b15670e06e3bca73372bd7abb46000d656f7e4a"
+    },
+    {
+      "path": "recursos/casos-uso-automatizacion-ia-cordoba/index.html",
+      "size": 23368,
+      "sha256": "ab7009a6f94448b8a017116d9fc8b4feb628af090f2a723d7a5951237009c969"
+    },
+    {
+      "path": "recursos/como-saber-web-pierde-clientes/index.html",
+      "size": 25427,
+      "sha256": "531d36343cfc35f3b591116a637b96bd611b25331c157ca10775ec2815604291"
+    },
+    {
+      "path": "recursos/cuanto-cuesta-web-empresa/index.html",
+      "size": 27936,
+      "sha256": "d0a3eccec62e8ad14cc6965d21a7f09aa3b1bcf71c1f997fce15daf764a56c4d"
+    },
+    {
+      "path": "recursos/chatbot-whatsapp-empresas-cordoba/index.html",
+      "size": 17755,
+      "sha256": "9b15e32afe56d708d954c4ea35417768958859106a55ee336ced73f5f0d1f6ef"
+    },
+    {
+      "path": "recursos/funnel-ventas-publicidad/index.html",
+      "size": 25174,
+      "sha256": "aafc1aaa3034ec5a87060624f0426bfef26182e5ecafdbad985568924df50e43"
+    },
+    {
+      "path": "recursos/que-debe-tener-web-empresarial/index.html",
+      "size": 25173,
+      "sha256": "201d2e8b35aa2c1143a987336d589b26ff169b8a15b9fd91575e5642a3869033"
+    },
+    {
+      "path": "recursos/checklist-web-empresa-cordoba/index.html",
+      "size": 25391,
+      "sha256": "b798279722960803b3ee987b8cfae144d4f0b8c9872aaf4599ead37e52074981"
+    },
+    {
+      "path": "recursos/chatbot-empresas-cuando-merece-pena/index.html",
+      "size": 25913,
+      "sha256": "3c9d9d4411ebbcd14f542a11a1fad669015e44eee50ac13fdc061acbb7c55390"
+    },
+    {
+      "path": "recursos/agentes-ia-empresas-que-pueden-hacer/index.html",
+      "size": 25935,
+      "sha256": "e5fe81309255f93aa9fd81f1fcaa611b23c59538baf939e5b14ae98acbe8f572"
+    },
+    {
+      "path": "recursos/guia-google-business-profile-empresas-servicio/index.html",
+      "size": 25525,
+      "sha256": "d1854000518e43ed5a03d7a8b85daff88eb1c508c733e70a7642b72365047c40"
+    },
+    {
+      "path": "recursos/seo-local-empresas-cordoba/index.html",
+      "size": 28053,
+      "sha256": "d0c14f3b23c7194051432af42ebdda61773c9a58af22cf63b1d62830a76af854"
+    },
+    {
+      "path": "recursos/mejorar-atencion-cliente-sin-contratar/index.html",
+      "size": 25469,
+      "sha256": "dfcae4b5ce144ca49a953296de990ff5a8f8a07e6cb0a18147ff5677499110ee"
+    },
+    {
+      "path": "recursos/errores-diseno-web-empresas/index.html",
+      "size": 25112,
+      "sha256": "f2a4d654519c96fac51ed200f7afce923a8a64631fb6992738f5a52bff42cd9a"
+    },
+    {
+      "path": "recursos/web-gestorias-asesorias-cordoba/index.html",
+      "size": 29177,
+      "sha256": "9655f299ef98b409f55eb30004e9d70f66a03bd98e0ed00cac7c6359199cff42"
+    },
+    {
+      "path": "recursos/agencia-ia-automatizacion-cordoba/index.html",
+      "size": 28007,
+      "sha256": "efed3d6fd7ffc2cc9e627269835b9ce54acdf185d386f02ce784904890b8920c"
+    },
+    {
+      "path": "recursos/conectar-whatsapp-web-captar-clientes/index.html",
+      "size": 25266,
+      "sha256": "e0767731d7676fa4da4f42e04f00f294eb4d223a482aa1c79bd5a5b3602ef753"
+    },
+    {
+      "path": "recursos/diagnostico-digital-pymes-cordoba/index.html",
+      "size": 23480,
+      "sha256": "00a454764ac6c15f98b99809fd413582d03790fd604f042798ae1aa082276ed8"
+    }
+  ]
+}
