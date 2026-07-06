@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T17:15:09Z",
+  "generated_at": "2026-07-06T17:16:22Z",
   "source": "/home/alfonso_ngel/HERMES_SECOND_BRAIN_APP/nexura-digital-web",
-  "file_count": 123,
+  "file_count": 65,
   "policy": "solo HTML/assets/archivos públicos seguros; excluidos scripts, backups, configs, logs y helpers",
   "sample_files": [
     {
@@ -43,6 +43,11 @@
       "path": "robots.txt",
       "size": 69,
       "sha256": "7a18de01f0959a4f1265b07b3cdc80d847339df61fb231b3134857c00e47e869"
+    },
+    {
+      "path": "deploy_manifest_nexura_pages.json",
+      "size": 8905,
+      "sha256": "95430180768fd7a7310707278e41ea4efb2b419794ae44bf09b646bb8cdfc1f0"
     },
     {
       "path": "indexnow-key.txt",
@@ -248,11 +253,6 @@
       "path": "recursos/conectar-whatsapp-web-captar-clientes/index.html",
       "size": 25266,
       "sha256": "e0767731d7676fa4da4f42e04f00f294eb4d223a482aa1c79bd5a5b3602ef753"
-    },
-    {
-      "path": "recursos/diagnostico-digital-pymes-cordoba/index.html",
-      "size": 23480,
-      "sha256": "00a454764ac6c15f98b99809fd413582d03790fd604f042798ae1aa082276ed8"
     }
   ]
 }
