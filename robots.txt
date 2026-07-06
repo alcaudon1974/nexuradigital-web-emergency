@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nexuradigital.es/sitemap.xml

@@ -1,0 +1,22 @@
+{
+  "ts": "2026-06-20",
+  "changed": [
+    "recursos/automatizacion-centros-estetica-cordoba/index.html: title",
+    "recursos/marketing-digital-clinicas-estetica-cordoba/index.html: title",
+    "recursos/agencia-seo-cordoba/index.html",
+    "recursos/chatbot-whatsapp-empresas-cordoba/index.html",
+    "recursos/automatizacion-procesos-empresas-cordoba/index.html",
+    "recursos/index.html: new links",
+    "index.html: priority links",
+    "diseno-web-cordoba/index.html: priority links",
+    "seo-posicionamiento-web/index.html: priority links",
+    "automatizacion-empresas-cordoba/index.html: priority links",
+    "chatbots-inteligentes/index.html: priority links"
+  ],
+  "url_count": 44,
+  "new_urls": [
+    "https://nexuradigital.es/recursos/agencia-seo-cordoba/",
+    "https://nexuradigital.es/recursos/chatbot-whatsapp-empresas-cordoba/",
+    "https://nexuradigital.es/recursos/automatizacion-procesos-empresas-cordoba/"
+  ]
+}

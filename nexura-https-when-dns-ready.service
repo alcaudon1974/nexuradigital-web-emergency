@@ -1,0 +1,10 @@
+[Unit]
+Description=Enable HTTPS for nexuradigital.es when DNS is ready
+After=network-online.target nginx.service
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/root/nexura/nexura_https_when_dns_ready.sh
+Nice=10
+IOSchedulingClass=best-effort

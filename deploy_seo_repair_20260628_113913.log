@@ -1,0 +1,62 @@
+2026-06-28T11:39:13 SEO_REPAIR_DEPLOY_RETRY_START
+2026-06-28T11:39:13 RUN ssh -i /home/alfonso_ngel/nexura_clouding/nexuradigital_ed25519 -o BatchMode=yes -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new -o ConnectTimeout=8 root@187.33.159.38 echo SSH_OK
+2026-06-28T11:39:14 STDERR ssh: connect to host 187.33.159.38 port 22: Connection refused
+
+2026-06-28T11:39:14 SSH_NOT_READY attempt=1 rc=255
+2026-06-28T11:41:14 RUN ssh -i /home/alfonso_ngel/nexura_clouding/nexuradigital_ed25519 -o BatchMode=yes -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new -o ConnectTimeout=8 root@187.33.159.38 echo SSH_OK
+2026-06-28T11:41:14 STDERR ssh: connect to host 187.33.159.38 port 22: Connection refused
+
+2026-06-28T11:41:14 SSH_NOT_READY attempt=2 rc=255
+2026-06-28T11:43:14 RUN ssh -i /home/alfonso_ngel/nexura_clouding/nexuradigital_ed25519 -o BatchMode=yes -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new -o ConnectTimeout=8 root@187.33.159.38 echo SSH_OK
+2026-06-28T11:43:15 STDERR ssh: connect to host 187.33.159.38 port 22: Connection refused
+
+2026-06-28T11:43:15 SSH_NOT_READY attempt=3 rc=255
+2026-06-28T11:45:15 RUN ssh -i /home/alfonso_ngel/nexura_clouding/nexuradigital_ed25519 -o BatchMode=yes -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new -o ConnectTimeout=8 root@187.33.159.38 echo SSH_OK
+2026-06-28T11:45:15 STDERR ssh: connect to host 187.33.159.38 port 22: Connection refused
+
+2026-06-28T11:45:15 SSH_NOT_READY attempt=4 rc=255
+2026-06-28T11:47:15 RUN ssh -i /home/alfonso_ngel/nexura_clouding/nexuradigital_ed25519 -o BatchMode=yes -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new -o ConnectTimeout=8 root@187.33.159.38 echo SSH_OK
+2026-06-28T11:47:15 STDERR ssh: connect to host 187.33.159.38 port 22: Connection refused
+
+2026-06-28T11:47:15 SSH_NOT_READY attempt=5 rc=255
+2026-06-28T11:49:15 RUN ssh -i /home/alfonso_ngel/nexura_clouding/nexuradigital_ed25519 -o BatchMode=yes -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new -o ConnectTimeout=8 root@187.33.159.38 echo SSH_OK
+2026-06-28T11:49:15 STDERR ssh: connect to host 187.33.159.38 port 22: Connection refused
+
+2026-06-28T11:49:15 SSH_NOT_READY attempt=6 rc=255
+2026-06-28T11:51:15 RUN ssh -i /home/alfonso_ngel/nexura_clouding/nexuradigital_ed25519 -o BatchMode=yes -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new -o ConnectTimeout=8 root@187.33.159.38 echo SSH_OK
+2026-06-28T11:51:15 STDERR ssh: connect to host 187.33.159.38 port 22: Connection refused
+
+2026-06-28T11:51:15 SSH_NOT_READY attempt=7 rc=255
+2026-06-28T11:53:15 RUN ssh -i /home/alfonso_ngel/nexura_clouding/nexuradigital_ed25519 -o BatchMode=yes -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new -o ConnectTimeout=8 root@187.33.159.38 echo SSH_OK
+2026-06-28T11:53:16 STDERR ssh: connect to host 187.33.159.38 port 22: Connection refused
+
+2026-06-28T11:53:16 SSH_NOT_READY attempt=8 rc=255
+2026-06-28T11:55:16 RUN ssh -i /home/alfonso_ngel/nexura_clouding/nexuradigital_ed25519 -o BatchMode=yes -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new -o ConnectTimeout=8 root@187.33.159.38 echo SSH_OK
+2026-06-28T11:55:17 STDERR ssh: connect to host 187.33.159.38 port 22: Connection refused
+
+2026-06-28T11:55:17 SSH_NOT_READY attempt=9 rc=255
+2026-06-28T11:57:17 RUN ssh -i /home/alfonso_ngel/nexura_clouding/nexuradigital_ed25519 -o BatchMode=yes -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new -o ConnectTimeout=8 root@187.33.159.38 echo SSH_OK
+2026-06-28T11:57:17 STDERR ssh: connect to host 187.33.159.38 port 22: Connection refused
+
+2026-06-28T11:57:17 SSH_NOT_READY attempt=10 rc=255
+2026-06-28T11:59:17 RUN ssh -i /home/alfonso_ngel/nexura_clouding/nexuradigital_ed25519 -o BatchMode=yes -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new -o ConnectTimeout=8 root@187.33.159.38 echo SSH_OK
+2026-06-28T11:59:18 STDERR ssh: connect to host 187.33.159.38 port 22: Connection refused
+
+2026-06-28T11:59:18 SSH_NOT_READY attempt=11 rc=255
+2026-06-28T12:01:18 RUN ssh -i /home/alfonso_ngel/nexura_clouding/nexuradigital_ed25519 -o BatchMode=yes -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new -o ConnectTimeout=8 root@187.33.159.38 echo SSH_OK
+2026-06-28T12:01:19 STDERR ssh: connect to host 187.33.159.38 port 22: Connection refused
+
+2026-06-28T12:01:19 SSH_NOT_READY attempt=12 rc=255
+2026-06-28T12:03:19 RUN ssh -i /home/alfonso_ngel/nexura_clouding/nexuradigital_ed25519 -o BatchMode=yes -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new -o ConnectTimeout=8 root@187.33.159.38 echo SSH_OK
+2026-06-28T12:03:19 STDERR ssh: connect to host 187.33.159.38 port 22: Connection refused
+
+2026-06-28T12:03:19 SSH_NOT_READY attempt=13 rc=255
+2026-06-28T12:05:19 RUN ssh -i /home/alfonso_ngel/nexura_clouding/nexuradigital_ed25519 -o BatchMode=yes -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new -o ConnectTimeout=8 root@187.33.159.38 echo SSH_OK
+2026-06-28T12:05:19 STDERR ssh: connect to host 187.33.159.38 port 22: Connection refused
+
+2026-06-28T12:05:19 SSH_NOT_READY attempt=14 rc=255
+2026-06-28T12:07:19 RUN ssh -i /home/alfonso_ngel/nexura_clouding/nexuradigital_ed25519 -o BatchMode=yes -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new -o ConnectTimeout=8 root@187.33.159.38 echo SSH_OK
+2026-06-28T12:07:19 STDERR ssh: connect to host 187.33.159.38 port 22: Connection refused
+
+2026-06-28T12:07:19 SSH_NOT_READY attempt=15 rc=255
+2026-06-28T12:09:19 BLOCKER SSH no disponible tras reintentos. Último estado: (255, '', 'ssh: connect to host 187.33.159.38 port 22: Connection refused\n')

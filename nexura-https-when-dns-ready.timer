@@ -1,0 +1,12 @@
+[Unit]
+Description=Retry HTTPS activation for nexuradigital.es until DNS is ready
+
+[Timer]
+OnBootSec=5min
+OnUnitActiveSec=30min
+AccuracySec=1min
+Persistent=true
+Unit=nexura-https-when-dns-ready.service
+
+[Install]
+WantedBy=timers.target
